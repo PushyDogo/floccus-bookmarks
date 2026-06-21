@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :50: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Streaming</title>
+  <bookmark href="https://champagne.pages.dev/docs/getting-started/browsers-extensions" id="6">
+    <title>Browsers and Extensions</title>
+  </bookmark>
+  <bookmark href="https://pstream.mov/media/tmdb-tv-64093-no-second-chance/71166/1114306" id="7">
+    <title>No Second Chance - S1 - E1</title>
+  </bookmark>
+  <bookmark href="https://allmanga.to/bangumi/3QP8uevXnRtbj4sMG" id="8">
+    <title>📺 Digimon Adventure: - All Manga</title>
+  </bookmark>
+  <bookmark href="https://yts.bz/" id="9">
+    <title>The Official Home of YTS YIFY Movies Torrent Download - YTS.MX</title>
+  </bookmark>
+  <folder id="10">
+    <title>homelab</title>
+    <bookmark href="https://app.plex.tv/desktop/#!" id="26">
+      <title>Plex</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.9:30096/web/#/home" id="27">
+      <title>homelab-jellyfin</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.9:30080/" id="28">
+      <title>qBittorrent v5.2.0 WebUI</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.9:30097/" id="29">
+      <title>Indexers - Prowlarr</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.9:30078/" id="30">
+      <title>Radarr</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="2">
+  <title>Downloads</title>
+  <bookmark href="https://wallhaven.cc/" id="11">
+    <title>Wallhaven</title>
+  </bookmark>
+  <bookmark href="https://ytiz.xyz/" id="12">
+    <title>YTiz</title>
+  </bookmark>
+  <bookmark href="https://wall.alphacoders.com/" id="13">
+    <title>Wallpaper Abyss - The Best Cool HD Wallpapers And Backgrounds</title>
+  </bookmark>
+  <bookmark href="https://www.wallpaperflare.com/search?wallpaper=digimon" id="14">
+    <title>Digimon 1080P, 2K, 4K, 5K HD wallpapers free download | WallpaperFlare</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Games</title>
+  <bookmark href="https://docs.google.com/spreadsheets/d/1EBzUPUByWgIH4pwC-I4XEa-qgNKv9RO6Ov4fpp_9vcY/edit?gid=89689726#gid=89689726" id="15">
+    <title>Guides - Google Sheets</title>
+  </bookmark>
+  <bookmark href="https://crackrelease.com/games/" id="16">
+    <title>Crack Status of All PC Games – Is It Cracked?</title>
+  </bookmark>
+  <folder id="17">
+    <title>Digimon</title>
+    <bookmark href="https://gamefaqs.gamespot.com/ps5/513530-digimon-story-time-stranger/faqs/82355/introduction" id="31">
+      <title>Digimon Story Time Stranger Walkthrough &amp; Guide - PlayStation 5 - By vreaper - GameFAQs</title>
+    </bookmark>
+    <bookmark href="https://www.grindosaur.com/en/games/digimon-story-time-stranger" id="32">
+      <title>Digimon Story Time Stranger Wiki - Grindosaur</title>
+    </bookmark>
+    <bookmark href="https://www.tshadowknight.com/pathfinder%204.0/index.html" id="33">
+      <title>tshadowknight.com/pathfinder 4.0/index.html</title>
+    </bookmark>
+    <bookmark href="https://api.skullbot.fr/digimon/" id="34">
+      <title>Digimon Story - Time Stranger - Digivolution Chart</title>
+    </bookmark>
+  </folder>
+  <folder id="18">
+    <title>BG3</title>
+    <bookmark href="https://gamestegy.com/post/bg3/883/draconic-fire-sorcerer-build" id="35">
+      <title>Best Draconic Fire Sorcerer Build - Scorching Ray | Baldur&apos;s Gate 3 (BG3)</title>
+    </bookmark>
+    <bookmark href="https://gamestegy.com/post/bg3/1722/storm-acuity-controller" id="36">
+      <title>Storm Acuity Controller Build | Baldur&apos;s Gate 3 (BG3)</title>
+    </bookmark>
+    <bookmark href="https://gamestegy.com/post/bg3/874/lockadin-paladin-warlock-build" id="37">
+      <title>Lockadin - Paladin Warlock Multiclass Build | Baldur&apos;s Gate 3 (BG3)</title>
+    </bookmark>
+    <bookmark href="https://gamestegy.com/post/bg3/864/assassin-rogue-build-stalker" id="38">
+      <title>Best Gloomstalker Assassin Build - 6 Attacks per Turn | Baldur&apos;s Gate 3 (BG3)</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="4">
+  <title>Learning</title>
+  <folder id="19">
+    <title>Rust</title>
+    <bookmark href="https://doc.rust-lang.org/rust-by-example/hello.html" id="39">
+      <title>Hello World - Rust By Example</title>
+    </bookmark>
+    <bookmark href="https://doc.rust-lang.org/book/ch00-00-introduction.html" id="40">
+      <title>Introduction - The Rust Programming Language</title>
+    </bookmark>
+    <bookmark href="https://doc.rust-lang.org/stable/book/ch03-03-how-functions-work.html" id="41">
+      <title>Functions - The Rust Programming Language</title>
+    </bookmark>
+  </folder>
+  <folder id="20">
+    <title>AI &amp; Prompting</title>
+    <bookmark href="https://www.claudeai.directory/" id="42">
+      <title>ClaudeAI Directory — Skills, MCP Servers, Prompts &amp; AI Jobs</title>
+    </bookmark>
+    <bookmark href="https://github.com/promptslab/Awesome-Prompt-Engineering" id="43">
+      <title>GitHub - promptslab/Awesome-Prompt-Engineering: This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc</title>
+    </bookmark>
+    <bookmark href="https://civitai.red/?sync-account=green" id="44">
+      <title>Civitai | Discover and Create AI Art</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://dash.cloudflare.com/8db2366d624be6136c52d6f1bf45ab70/home/overview" id="21">
+    <title>Account home | Evie2.james@gmail.com&apos;s Account | Cloudflare</title>
+  </bookmark>
+  <bookmark href="https://c1307e17.roadmap-tracker.pages.dev/" id="22">
+    <title>AI &amp; MLOps Engineering Roadmaps</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>Careers</title>
+  <bookmark href="https://jobs.weekday.works/applied" id="23">
+    <title>Find jobs via Weekday (YC W21)</title>
+  </bookmark>
+  <bookmark href="https://www.instahyre.com/candidate/opportunities/?matching=true" id="24">
+    <title>Opportunities - Instahyre</title>
+  </bookmark>
+  <bookmark href="https://www.naukri.com/mnjuser/profile?id=&amp;altresid" id="25">
+    <title>Profile | Mynaukri</title>
+  </bookmark>
+</folder>
+<folder id="45">
+  <title>XC</title>
+  <bookmark href="https://app.slack.com/client/T03CF96SG4E/D07U4T0BH4H" id="47">
+    <title>Manu Gupta (DM) - Xcaliber - Slack</title>
+  </bookmark>
+  <bookmark href="https://xcaliber-health.atlassian.net/wiki/spaces/XDAS/pages/89718892/Logging+into+Blitz+Kubernetes+Cluster+s" id="48">
+    <title>Logging into Blitz Kubernetes Cluster(s) - XCaliber DevOps and SRE - Confluence</title>
+  </bookmark>
+  <bookmark href="https://console.jumpcloud.com/userconsole#/" id="49">
+    <title>JumpCloud User Portal</title>
+  </bookmark>
+</folder>
+<bookmark href="https://excalidraw.com/" id="46">
+  <title>Excalidraw Whiteboard</title>
+</bookmark>
+<bookmark href="https://www.pcgamer.com/epic-games-store-free-games-list/" id="50">
+  <title>Epic Games Store current free games | PC Gamer</title>
+</bookmark>
+</xbel>
