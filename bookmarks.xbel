@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :50: for Floccus bookmark sync browser extension -->
+<!--- highestId :51: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Streaming</title>
@@ -87,6 +87,9 @@
     </bookmark>
     <bookmark href="https://gamestegy.com/post/bg3/864/assassin-rogue-build-stalker" id="38">
       <title>Best Gloomstalker Assassin Build - 6 Attacks per Turn | Baldur&apos;s Gate 3 (BG3)</title>
+    </bookmark>
+    <bookmark href="https://gamestegy.com/post/bg3/881/sorcadin-sorcerer-paladin-build#act-2" id="51">
+      <title>Best Vengeance Sorcadin build - Sorcerer Paladin | Baldur&apos;s Gate 3 (BG3)</title>
     </bookmark>
   </folder>
 </folder>
