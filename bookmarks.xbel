@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :51: for Floccus bookmark sync browser extension -->
+<!--- highestId :52: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Streaming</title>
@@ -76,6 +76,9 @@
   </folder>
   <folder id="18">
     <title>BG3</title>
+    <bookmark href="https://www.reddit.com/r/BaldursGate3/comments/1iis77d/comment/mb85mw5/?context=3" id="52">
+      <title>What characters should I have in my party for act 3? : r/BaldursGate3</title>
+    </bookmark>
     <bookmark href="https://gamestegy.com/post/bg3/874/lockadin-paladin-warlock-build" id="37">
       <title>Lockadin - Paladin Warlock Multiclass Build | Baldur&apos;s Gate 3 (BG3)</title>
     </bookmark>
